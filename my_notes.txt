@@ -1,0 +1,6 @@
+Nombre: Jonathan Felix
+Edad: 33 años
+Ciudad de Residencia: Quito
+Número Telefónico: 0997011051
+Universidad: UEA
+Carrera: Tecnologías de la Información
